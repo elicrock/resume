@@ -1,4 +1,4 @@
 # Моё резюме
 
 ## Результат можете посмотреть тут!
-[Моё резюме](https://duckduckgo.com](https://elicrock.github.io/resume/).
+[Моё резюме](https://elicrock.github.io/resume/).
